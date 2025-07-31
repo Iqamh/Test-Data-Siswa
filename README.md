@@ -15,7 +15,7 @@ Aplikasi web berbasis **CodeIgniter 4** untuk mengelola data siswa, termasuk inf
 
 ---
 
-## 🪙 Fitur Tabungan (SOON)
+## Fitur Tabungan (SOON)
 
 - Menampilkan saldo tabungan siswa berdasarkan nama
 - Menampilkan tanggal setor terakhir
