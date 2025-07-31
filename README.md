@@ -6,9 +6,9 @@ Aplikasi web berbasis **CodeIgniter 4** untuk mengelola data siswa, termasuk inf
 
 ## Fitur Utama
 
-- Tambah, ubah, dan hapus data siswa (CRUD)
+- CRUD data siswa
 - Upload dan tampilkan foto siswa
-- Halaman detail siswa dengan tampilan terstruktur (2 kolom)
+- Halaman detail siswa dengan tampilan terstruktur
 - Validasi input dan upload file
 - Responsive UI menggunakan Bootstrap 5
 - Link nama siswa untuk melihat detail
